@@ -7,5 +7,5 @@ int main(){
 
     int x;
     cin >> x;
-    cout <<  x << endl;
+    cout <<  x*10 << endl;
 }
